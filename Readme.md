@@ -1,6 +1,6 @@
 # AI-Driven Forex Signal Generator
 
-### Author: Suraj [Your Last Name]
+### Author: Suraj Chaubey
 ### Course: DLMCSPCSP01 - Project: Computer Science Project
 
 ---
@@ -101,7 +101,7 @@ The model's performance is assessed through a two-tiered evaluation strategy:
 ### Installation
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/ai-forex-signal-generator.git
+    git clone https://github.com/surajchaubey46/ai-forex-signal-generator.git
     cd ai-forex-signal-generator
     ```
 2.  Install the required libraries:
